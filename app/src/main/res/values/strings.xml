@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">イベントとリスナのサンプル</string>
+    <string name="tv_name_001">お名前を入力してください1</string>
+    <string name="tv_name_002">お名前を入力してください2</string>
+    <string name="tv_msg_001">%1$s さん、こんにちは！</string>
+    <string name="tv_msg_002">%1$s くん、お暇ですね</string>
+    <string name="tv_msg_003">%1$s さん、こんにちは！　%2$s くん、こんにちは！</string>
+
+    <string name="bt_click">表示</string>
+    <string name="bt_clear">クリア</string>
+
+</resources>
